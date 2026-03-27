@@ -35,6 +35,9 @@ milvus = ["pymilvus>=2.4.0"]
 asyncio_mode = "auto"
 testpaths = ["tests"]
 
+[tool.setuptools.packages.find]
+include = ["core*", "api*", "cli*", "plugins*"]
+
 [tool.ruff]
 line-length = 120
 target-version = "py311"
