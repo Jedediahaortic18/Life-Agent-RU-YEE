@@ -8,15 +8,19 @@
       :class="$route.path === tab.to ? 'text-blue-600' : 'text-gray-500'"
     >
       <span class="text-lg">{{ tab.icon }}</span>
-      <span>{{ tab.label }}</span>
+      <span>{{ t(tab.labelKey) }}</span>
     </router-link>
   </nav>
 </template>
 
 <script setup lang="ts">
+import { useI18n } from 'vue-i18n'
+
+const { t } = useI18n()
+
 const tabs = [
-  { to: '/', icon: '💬', label: '对话' },
-  // { to: '/devices', icon: '📱', label: '设备' },  // 暂时隐藏
-  { to: '/skillhub', icon: '🧩', label: '扩展' },
+  { to: '/', icon: '💬', labelKey: 'nav.chat' },
+  // { to: '/devices', icon: '📱', labelKey: 'nav.devices' },
+  { to: '/skillhub', icon: '🧩', labelKey: 'nav.skillhub' },
 ]
 </script>

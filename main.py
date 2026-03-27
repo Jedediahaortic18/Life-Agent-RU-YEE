@@ -12,9 +12,12 @@ if project_root not in sys.path:
 from contextlib import asynccontextmanager
 from typing import AsyncIterator
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
+from starlette.middleware.base import BaseHTTPMiddleware
 from loguru import logger
+
+from core.i18n import set_locale, get_default_locale, get_supported_locales
 
 from core.config import load_config, load_env, AppConfig, EnvConfig
 from core.context_bus import ContextBus
@@ -154,6 +157,19 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
     logger.info("Shutting down...")
 
 
+class I18nMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request: Request, call_next):
+        lang = request.query_params.get("lang")
+        if not lang:
+            accept = request.headers.get("accept-language", "")
+            lang = accept.split(",")[0].split("-")[0].strip() if accept else ""
+        if lang in get_supported_locales():
+            set_locale(lang)
+        else:
+            set_locale(get_default_locale())
+        return await call_next(request)
+
+
 # ── FastAPI App ──────────────────────────────────────────
 app = FastAPI(
     title="Life-Agent-RU-YEE",
@@ -162,6 +178,7 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+app.add_middleware(I18nMiddleware)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -175,6 +192,16 @@ app.add_middleware(
 from api import router as api_router  # noqa: E402
 
 app.include_router(api_router, prefix="/api")
+
+
+@app.get("/api/locales")
+async def list_locales():
+    from core.i18n import get_locale
+    return {
+        "supported": list(get_supported_locales()),
+        "default": get_default_locale(),
+        "current": get_locale(),
+    }
 
 
 if __name__ == "__main__":

@@ -7,6 +7,8 @@ from typing import TYPE_CHECKING
 import litellm
 from loguru import logger
 
+from core.i18n import t
+
 from core.models.intent import IntentResult
 
 if TYPE_CHECKING:
@@ -35,15 +37,7 @@ class IntentRouter:
 
         agents_section = "\n".join(agent_lines)
 
-        return f"""你是一个意图路由器。根据用户输入，选择最合适的 Agent。
-
-可用 Agent：
-{agents_section}
-
-用户输入: "{user_message}"
-
-请严格返回以下 JSON 格式（不要返回其他内容）：
-{{"agent": "agent_name", "confidence": 0.0-1.0, "task_description": "任务描述"}}"""
+        return t("router.prompt", agents_section=agents_section, user_message=user_message)
 
     async def route(self, user_message: str) -> IntentResult:
         """路由用户消息到合适的 Agent"""
@@ -68,7 +62,7 @@ class IntentRouter:
             return IntentResult(
                 agent="",
                 confidence=0.0,
-                task_description="没有可用的 Agent",
+                task_description=t("router.error.no_agents"),
             )
 
         # 多个 Agent 时用 LLM 路由

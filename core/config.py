@@ -14,6 +14,11 @@ class ServerConfig(BaseModel):
     port: int = 8000
 
 
+class I18nConfig(BaseModel):
+    default_locale: str = "zh"
+    supported_locales: list[str] = ["en", "zh"]
+
+
 class LLMConfig(BaseModel):
     default_model: str = "volcengine/doubao-seed-2-0-pro-260215"
     intent_router_model: str | None = None  # 意图路由模型，默认使用 default_model
@@ -45,6 +50,7 @@ class SkillHubConfig(BaseModel):
 class AppConfig(BaseModel):
     """从 config.yaml 加载的应用配置"""
     server: ServerConfig = ServerConfig()
+    i18n: I18nConfig = I18nConfig()
     llm: LLMConfig = LLMConfig()
     logging: LoggingConfig = LoggingConfig()
     plugins: PluginsEnabled = PluginsEnabled()

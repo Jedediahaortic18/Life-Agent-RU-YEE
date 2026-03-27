@@ -12,19 +12,21 @@
 <script setup lang="ts">
 import { computed, ref, onMounted, onUnmounted } from 'vue'
 import { useRoute } from 'vue-router'
+import { useI18n } from 'vue-i18n'
 import AppHeader from './components/AppHeader.vue'
 import BottomNav from './components/BottomNav.vue'
 import { checkHealth } from './api/health'
 
+const { t } = useI18n()
 const route = useRoute()
 const isOnline = ref(false)
 let healthTimer: ReturnType<typeof setInterval> | null = null
 
 const pageTitle = computed(() => {
   const titles: Record<string, string> = {
-    '/': '如意助手',
-    '/devices': '设备网关',
-    '/skillhub': '扩展',
+    '/': t('app.title.chat'),
+    '/devices': t('app.title.devices'),
+    '/skillhub': t('app.title.skillhub'),
   }
   return titles[route.path] ?? 'Life-Agent-RU-YEE'
 })
