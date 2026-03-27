@@ -1,0 +1,1643 @@
+[
+  {
+    "id": 153,
+    "name": "盐煎肉片",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "煎",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 190.0,
+    "protein_level": "高",
+    "taste_tag": "酱香,香辣,鲜嫩/软滑",
+    "regional": "川菜",
+    "seasonal": "冬季,春季",
+    "suitability": "儿童",
+    "description": "盐煎肉片是一道高蛋白的酱香荤菜，属于肉菜，又称煎肉片或香煎肉片，制作难度中等，适合午餐、晚餐食用。猪腿肉富含优质蛋白质，是身体能量的重要来源；大蒜头则能增添独特风味，并具有杀菌开胃的功效。煎制方式能迅速锁住肉汁，使肉片外焦里嫩，香气四溢。酱香浓郁，香辣过瘾，能有效刺激食欲，带来温暖满足的用餐体验。肉",
+    "main_ingredients": [
+      {
+        "name": "猪腿肉",
+        "amount": "50g"
+      },
+      {
+        "name": "大蒜头",
+        "amount": "150g"
+      }
+    ],
+    "side_ingredients": [
+      "食用油",
+      "豆瓣酱",
+      "猪油"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "熟炒鲫鱼",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炸",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 108.0,
+    "protein_level": "高",
+    "taste_tag": "酱香,酥脆",
+    "regional": "川菜",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人,儿童",
+    "description": "熟炒鲫鱼是一道高蛋白、低脂的荤菜，属于河鲜菜，又称酥炸鲫鱼或酱香鲫鱼，制作难度中等，适合午餐、晚餐食用。鲫鱼作为淡水鱼，富含优质蛋白质，肉质细嫩易消化。炸制烹饪赋予其金黄酥脆的外皮和鲜嫩的鱼肉，口感层次丰富。酱香浓郁的风味，极大地增进食欲，是理想的下饭菜。质地酥脆，具有丰富的咀嚼感，适合成年人享用。",
+    "main_ingredients": [
+      {
+        "name": "鲫鱼",
+        "amount": "1条"
+      }
+    ],
+    "side_ingredients": [
+      "食用油",
+      "干姜",
+      "大蒜头",
+      "玉米淀粉"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "麻辣鲤鱼",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "烧",
+    "flavor_profile": "辣",
+    "difficulty_level": "中等",
+    "calories": 109.0,
+    "protein_level": "高",
+    "taste_tag": "麻辣,酱香,鲜嫩/软滑",
+    "regional": "川菜",
+    "seasonal": "春季,冬季",
+    "suitability": "老人,儿童",
+    "description": "麻辣鲤鱼是一道高蛋白、低脂的荤菜，属于河鲜菜，制作难度中等，适合午餐、晚餐食用。鲤鱼作为淡水鱼，富含优质蛋白质，易于消化吸收，有助于增强体质。烧制方式使鱼肉充分吸收麻辣酱汁，风味浓郁，同时保留了食材的营养。其麻辣酱香的独特口感，过瘾下饭，能有效暖身提神，带来极致的味蕾满足感。鱼肉质地鲜嫩软滑，易于咀",
+    "main_ingredients": [
+      {
+        "name": "鲤鱼",
+        "amount": "850g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "鸡精",
+      "八角",
+      "花椒"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "秘制泡椒凤爪",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐,零食",
+    "cooking_method": "煮",
+    "flavor_profile": "辣",
+    "difficulty_level": "简单",
+    "calories": 254.0,
+    "protein_level": "高",
+    "taste_tag": "香辣,酸咸,爽脆",
+    "regional": "川菜",
+    "seasonal": "夏季,秋季",
+    "suitability": "儿童",
+    "description": "秘制泡椒凤爪是一道高蛋白的荤菜，属于禽肉菜，又称泡椒鸡爪或酸辣鸡爪，制作难度简单，适合午餐、晚餐、零食食用。鸡爪富含胶原蛋白和优质蛋白质，有助于皮肤健康和补充体力。煮制方式使其充分吸收泡椒风味，口感独特。香辣酸爽的味型开胃过瘾，能瞬间提振精神，平衡油腻感。质地爽脆弹牙，具有丰富的咀嚼乐趣，适合成年人",
+    "main_ingredients": [
+      {
+        "name": "鸡爪",
+        "amount": "1斤"
+      }
+    ],
+    "side_ingredients": [
+      "干姜",
+      "料酒"
+    ]
+  },
+  {
+    "id": 1414,
+    "name": "香辣鱿鱼须",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炒",
+    "flavor_profile": "辣",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "高",
+    "taste_tag": "香辣,孜然,劲道/Q弹",
+    "regional": "川菜",
+    "seasonal": "春季,夏季,秋季,冬季",
+    "suitability": "儿童",
+    "description": "香辣鱿鱼须是一道高蛋白、补锌、补碘、低GI的荤菜，属于海鲜菜，又称辣炒鱿鱼须，制作难度中等，适合午餐、晚餐食用。鱿鱼须富含优质蛋白质、锌和碘，有助于增强免疫力、维持甲状腺功能，是健康的低GI食材。炒制方式能迅速锁住食材风味，使调料充分渗透。香辣孜然风味浓郁，口感过瘾，能有效刺激食欲，暖身提神。鱿鱼须",
+    "main_ingredients": [
+      {
+        "name": "鱿鱼须",
+        "amount": "400g"
+      }
+    ],
+    "side_ingredients": [
+      "姜",
+      "蒜",
+      "干辣椒",
+      "花椒"
+    ]
+  },
+  {
+    "id": 1050,
+    "name": "红烧鱼块",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "烧",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "高",
+    "taste_tag": "酱香,香辣,鲜嫩/软滑",
+    "regional": "川菜",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人",
+    "description": "红烧鱼块是一道高蛋白、补DHA、补钙、补锌、低GI的家常荤菜，属于河鲜菜，又称红烧草鱼块或家常红烧鱼块，制作难度中等，适合午餐,晚餐食用。草鱼富含优质蛋白、DHA、钙和锌，有益大脑及骨骼健康；豆腐提供植物蛋白和钙质，营养均衡。红烧烹饪使食材充分入味，色泽红亮。酱香浓郁，微带香辣，口感丰富，十分下饭。",
+    "main_ingredients": [
+      {
+        "name": "草鱼",
+        "amount": "500g"
+      },
+      {
+        "name": "豆腐",
+        "amount": "200g"
+      }
+    ],
+    "side_ingredients": [
+      "生抽",
+      "老抽",
+      "料酒",
+      "糖"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "花椒蒸鲫鱼",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "蒸",
+    "flavor_profile": "鲜",
+    "difficulty_level": "中等",
+    "calories": 108.0,
+    "protein_level": "高",
+    "taste_tag": "麻辣,咸鲜,鲜嫩/软滑",
+    "regional": "川菜",
+    "seasonal": "春季,秋季,冬季",
+    "suitability": "老人,哺乳期",
+    "description": "花椒蒸鲫鱼是一道高蛋白、低脂的荤菜，属于河鲜菜，又称蒸鲫鱼或麻辣蒸鲫鱼，制作难度中等，适合午餐、晚餐食用。鲫鱼是淡水鱼，富含优质蛋白质，低脂肪，有助于补充营养。花椒则带来独特的麻辣风味，刺激食欲。蒸制方式健康低脂，最大限度保留鱼肉的鲜美和营养成分。麻辣咸鲜的口感刺激味蕾，开胃下饭，能带来暖身过瘾的体",
+    "main_ingredients": [
+      {
+        "name": "鲫鱼",
+        "amount": "1条"
+      }
+    ],
+    "side_ingredients": [
+      "干姜",
+      "八角",
+      "花椒",
+      "干辣椒"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "烤鱼",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "烤",
+    "flavor_profile": "辣",
+    "difficulty_level": "中等",
+    "calories": 106.5075,
+    "protein_level": "高",
+    "taste_tag": "麻辣,孜然,酥脆",
+    "regional": "川菜",
+    "seasonal": "夏季,秋季,冬季",
+    "suitability": "老人",
+    "description": "烤鱼是一道高蛋白、低脂的荤菜，属于河鲜菜，制作难度中等，适合午餐、晚餐食用。草鱼富含优质蛋白质，肉质细嫩易消化，能提供丰富营养。搭配洋葱，不仅增添了风味层次，也提供了膳食纤维。烤制方式使鱼肉外酥里嫩，锁住鲜美汁水，健康低脂。麻辣风味浓郁，带有独特的孜然香气，口感过瘾，能暖身提神，瞬间打开食欲。鱼皮酥",
+    "main_ingredients": [
+      {
+        "name": "草鱼",
+        "amount": "一条"
+      },
+      {
+        "name": "洋葱",
+        "amount": "100g"
+      }
+    ],
+    "side_ingredients": [
+      "味精",
+      "胡椒粉",
+      "孜然",
+      "花椒"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "香辣啤酒鸭",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "焖",
+    "flavor_profile": "辣",
+    "difficulty_level": "中等",
+    "calories": 193.365,
+    "protein_level": "高",
+    "taste_tag": "香辣,软烂",
+    "regional": "川菜",
+    "seasonal": "夏季,秋季,冬季",
+    "suitability": "老人,儿童",
+    "description": "香辣啤酒鸭是一道高蛋白的家常荤菜，属于禽肉菜，制作难度中等，适合午餐、晚餐食用。鸭肉富含优质蛋白质，能滋补身体，提供能量；柿子椒和辣椒则提供维生素，并带来独特的香辣风味。焖制方式使鸭肉充分吸收汤汁，肉质软烂入味。其香辣口感能暖身发汗，提神过瘾，激发食欲。鸭肉质地软烂，老人和儿童也能轻松享用。需一定备",
+    "main_ingredients": [
+      {
+        "name": "鸭",
+        "amount": "400克"
+      },
+      {
+        "name": "柿子椒",
+        "amount": "1个"
+      },
+      {
+        "name": "辣椒",
+        "amount": "1个"
+      }
+    ],
+    "side_ingredients": [
+      "花生油",
+      "盐",
+      "干姜",
+      "大蒜头"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "双椒鸡腿肉",
+    "dish_type": "荤素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炒",
+    "flavor_profile": "辣",
+    "difficulty_level": "中等",
+    "calories": 96.82,
+    "protein_level": "高",
+    "taste_tag": "麻辣,香辣,鲜嫩/软滑",
+    "regional": "川菜",
+    "seasonal": "夏季,秋季",
+    "suitability": "儿童",
+    "description": "双椒鸡腿肉是一道高蛋白的家常荤素菜，属于有肉有菜，又称青红椒炒鸡腿肉或辣子鸡腿肉，制作难度中等，适合午餐、晚餐食用。鸡腿肉提供优质蛋白质，易于消化吸收；青椒和红椒富含维生素C及多种抗氧化物质，补充膳食纤维。爆炒方式快速锁住食材风味和营养，麻辣鲜香的口感过瘾下饭，能有效提升食欲，暖身提神。鸡腿肉质地鲜",
+    "main_ingredients": [
+      {
+        "name": "鸡腿肉",
+        "amount": "500g"
+      },
+      {
+        "name": "青椒",
+        "amount": "100g"
+      },
+      {
+        "name": "红椒",
+        "amount": "100g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "生抽",
+      "料酒",
+      "姜"
+    ]
+  },
+  {
+    "id": 938,
+    "name": "菜花炒肉",
+    "dish_type": "荤素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炒",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "咸鲜,香辣,酱香,爽脆",
+    "regional": "川菜",
+    "seasonal": "春季,秋季,冬季",
+    "suitability": "孕妇,哺乳期",
+    "description": "菜花炒肉是一道高膳食纤维、补维生素C、低GI的家常荤素菜，属于有肉有菜，又称花菜炒肉，制作难度中等，适合午餐、晚餐食用。菜花富含膳食纤维和维生素C，有助于肠道蠕动、增强免疫力；里脊肉提供优质蛋白质，为身体补充能量。多种食材搭配，营养均衡。炒制方式能迅速锁住食材营养，保持菜花的爽脆口感。咸鲜中带有香辣",
+    "main_ingredients": [
+      {
+        "name": "菜花",
+        "amount": "250g"
+      },
+      {
+        "name": "洋葱",
+        "amount": "50g"
+      },
+      {
+        "name": "青椒",
+        "amount": "50g"
+      },
+      {
+        "name": "里脊肉",
+        "amount": "100g"
+      }
+    ],
+    "side_ingredients": [
+      "花生油",
+      "葱白",
+      "姜",
+      "蒜"
+    ]
+  },
+  {
+    "id": 520,
+    "name": "红油菜花",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炒",
+    "flavor_profile": "辣",
+    "difficulty_level": "简单",
+    "calories": 26.21,
+    "protein_level": "极低",
+    "taste_tag": "香辣,咸鲜,爽脆",
+    "regional": "川菜",
+    "seasonal": "秋季,冬季,春季",
+    "suitability": "糖尿病患者,痛风患者,高尿酸患者",
+    "description": "红油菜花是一道补维生素C的素菜，属于蔬菜，又称红油花菜，制作难度简单，适合午餐、晚餐食用。菜花富含维生素C和膳食纤维，有助于增强免疫力、促进消化。炒制方式能快速锁住菜花的鲜脆，并使其充分吸收红油风味。香辣咸鲜的风味刺激味蕾，开胃下饭，能带来愉悦的味觉体验。菜花质地爽脆，具有丰富咀嚼感，适合成年人。典",
+    "main_ingredients": [
+      {
+        "name": "菜花",
+        "amount": "350g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "食用油"
+    ]
+  },
+  {
+    "id": 546,
+    "name": "香辣花生仁",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炸",
+    "flavor_profile": "辣",
+    "difficulty_level": "中等",
+    "calories": 574.0,
+    "protein_level": "高",
+    "taste_tag": "香辣,酥脆",
+    "regional": "川菜",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人",
+    "description": "香辣花生仁是一道素菜，属于小吃类，又称香辣花生米或炸花生米，制作难度中等，适合午餐、晚餐食用。花生富含植物蛋白、膳食纤维及不饱和脂肪酸，有助于提供能量，促进消化，并有益心血管健康。炸制赋予其独特的酥脆口感和浓郁香气。口感香辣过瘾，能提神开胃，质地爽脆，具有丰富咀嚼感，适合成年人。本菜品需一定备菜功夫",
+    "main_ingredients": [
+      {
+        "name": "花生",
+        "amount": "700克"
+      }
+    ],
+    "side_ingredients": [
+      "干辣椒",
+      "花椒",
+      "盐",
+      "五香粉"
+    ]
+  },
+  {
+    "id": 687,
+    "name": "红油芹菜",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "辣",
+    "difficulty_level": "简单",
+    "calories": 43.34,
+    "protein_level": "低",
+    "taste_tag": "香辣,麻辣,酸甜,爽脆",
+    "regional": "川菜",
+    "seasonal": "春季,夏季,秋季,冬季",
+    "suitability": "痛风患者,高尿酸患者",
+    "description": "红油芹菜是一道家常素菜，属于蔬菜，又称凉拌芹菜或红油拌芹菜，制作难度简单，适合午餐、晚餐食用。芹菜富含膳食纤维，有助于肠道蠕动和清热；胡萝卜提供β-胡萝卜素，有益视力健康。少量猪肉丝则为菜品增添风味。凉拌方式最大化保留了蔬菜的清爽口感和营养。香辣麻辣与酸甜的复合味型，开胃提神，能平衡油腻感，带来过瘾",
+    "main_ingredients": [
+      {
+        "name": "芹菜",
+        "amount": "200克"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1根"
+      },
+      {
+        "name": "猪肉",
+        "amount": "50克"
+      }
+    ],
+    "side_ingredients": [
+      "辣椒油",
+      "盐",
+      "醋"
+    ]
+  },
+  {
+    "id": 1277,
+    "name": "炝炒油菜",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炒",
+    "flavor_profile": "咸",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "低",
+    "taste_tag": "麻辣,酸咸,葱油/蒜香,爽脆",
+    "regional": "川菜",
+    "seasonal": "春季,秋季,冬季",
+    "suitability": "糖尿病患者,高血脂患者,痛风患者,高尿酸患者",
+    "description": "炝炒油菜是一道高膳食纤维、补维生素C、补钙、低GI的素菜，属于蔬菜，又称炒油菜或炝锅油菜，制作难度简单，适合午餐、晚餐食用。油菜富含膳食纤维，促进肠道健康；同时提供维生素C和钙质，增强免疫力、维护骨骼。炝炒方式迅速锁住营养，保持鲜脆。麻辣酸咸的复合味型，开胃提神，平衡油腻感，带来丰富的味觉体验。口感",
+    "main_ingredients": [
+      {
+        "name": "油菜",
+        "amount": "300g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "食用油",
+      "葱",
+      "姜"
+    ]
+  },
+  {
+    "id": 832,
+    "name": "手撕豇豆",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "酸",
+    "difficulty_level": "简单",
+    "calories": 32.0,
+    "protein_level": "极低",
+    "taste_tag": "麻辣,葱油/蒜香,爽脆",
+    "regional": "川菜",
+    "seasonal": "夏季",
+    "suitability": "糖尿病患者,高血脂患者,高血压患者,痛风患者,高尿酸患者",
+    "description": "手撕豇豆是一道清爽开胃的素菜，属于蔬菜，又称凉拌豇豆，制作难度简单，适合午餐、晚餐食用。豇豆富含膳食纤维和多种维生素，有助于促进肠道蠕动；大蒜含有大蒜素，具有杀菌、增强免疫力的作用。凉拌烹饪方式最大限度保留了食材的营养与本味。麻辣爽脆的口感，搭配浓郁蒜香，开胃解腻，带来过瘾的味觉体验。质地爽脆，具有",
+    "main_ingredients": [
+      {
+        "name": "豇豆",
+        "amount": "300克"
+      },
+      {
+        "name": "大蒜头",
+        "amount": "3瓣"
+      }
+    ],
+    "side_ingredients": [
+      "干辣椒",
+      "花椒",
+      "生抽",
+      "水"
+    ]
+  },
+  {
+    "id": 880,
+    "name": "白烧四季豆",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炸",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 31.0,
+    "protein_level": "极低",
+    "taste_tag": "麻辣,咸鲜,酥脆",
+    "regional": "川菜",
+    "seasonal": "夏季",
+    "suitability": "老人,儿童",
+    "description": "白烧四季豆是一道低嘌呤的素菜，属于荤素菜，制作难度中等，适合午餐、晚餐食用。四季豆富含膳食纤维和多种维生素，有助于消化；少量猪肉提供优质蛋白质，增加风味。炸制赋予四季豆酥脆口感，与麻辣咸鲜的味型结合，刺激食欲，带来过瘾的味蕾体验。质地酥脆，具有丰富咀嚼感，适合成年人。备菜难度中等，需一定备菜功夫，食",
+    "main_ingredients": [
+      {
+        "name": "四季豆",
+        "amount": "300克"
+      },
+      {
+        "name": "猪肉",
+        "amount": "50克"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "花椒",
+      "干辣椒",
+      "生抽"
+    ]
+  },
+  {
+    "id": 912,
+    "name": "凉拌三丝",
+    "dish_type": "荤素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "辣",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "麻辣,酸甜,葱油/蒜香,爽脆",
+    "regional": "川菜",
+    "seasonal": "夏季",
+    "suitability": "糖尿病患者,高血脂患者",
+    "description": "凉拌三丝是一道低脂、高膳食纤维、补维生素A、补钙、低GI的荤素菜，属于荤素菜类，又称麻辣三丝，制作难度简单，适合午餐、晚餐食用。胡萝卜提供维生素A，有益视力；青椒富含维生素C，增强免疫；豆皮提供植物蛋白与钙；鸡胸肉是优质低脂蛋白来源；黄瓜清爽补水。多种食材搭配，营养均衡。凉拌方式健康清爽，最大限度保",
+    "main_ingredients": [
+      {
+        "name": "胡萝卜",
+        "amount": "100g"
+      },
+      {
+        "name": "青椒",
+        "amount": "80g"
+      },
+      {
+        "name": "豆皮",
+        "amount": "100g"
+      },
+      {
+        "name": "黄瓜",
+        "amount": "100g"
+      }
+    ],
+    "side_ingredients": [
+      "花生油",
+      "蒜",
+      "辣椒粉",
+      "酱油"
+    ]
+  },
+  {
+    "id": 919,
+    "name": "鱼香茄子煲",
+    "dish_type": "荤素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "烧",
+    "flavor_profile": "酸",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "鱼香,软糯",
+    "regional": "川菜",
+    "seasonal": "夏季,冬季",
+    "suitability": "老人,儿童",
+    "description": "鱼香茄子煲是一道川味荤素菜，属于有肉有菜，又称鱼香茄子，制作难度中等，适合午餐、晚餐食用。富含维生素B、C，茄子富含膳食纤维，有益消化；青红椒提供丰富维生素C，增强免疫；猪肉沫则补充优质蛋白质和B族维生素。烧制方式使食材充分吸收汤汁，茄子口感软糯入味。鱼香风味酸甜适中，微辣开胃，能增进食欲。质地软糯",
+    "main_ingredients": [
+      {
+        "name": "茄子",
+        "amount": "400g"
+      },
+      {
+        "name": "青椒",
+        "amount": "20g"
+      },
+      {
+        "name": "红椒",
+        "amount": "20g"
+      },
+      {
+        "name": "猪肉沫",
+        "amount": "100g"
+      }
+    ],
+    "side_ingredients": [
+      "蒜",
+      "辣椒",
+      "葱",
+      "豆瓣酱"
+    ]
+  },
+  {
+    "id": 948,
+    "name": "鱼香猪肉",
+    "dish_type": "荤素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炒",
+    "flavor_profile": "酸",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "高",
+    "taste_tag": "鱼香,鲜嫩/软滑",
+    "regional": "川菜",
+    "seasonal": "春季,冬季",
+    "suitability": "老人,儿童",
+    "description": "鱼香猪肉是一道高蛋白、补维生素A、补铁的荤素菜，属于荤素搭配菜，又称鱼香肉丝或鱼香肉片，制作难度中等，适合午餐、晚餐食用。里脊肉提供优质蛋白质和铁元素，有助于增强体质；胡萝卜富含维生素A，维护视力健康；黑木耳、冬笋、青椒、洋葱等蔬菜则补充膳食纤维与多种维生素，实现营养均衡。炒制能迅速锁住食材风味与营",
+    "main_ingredients": [
+      {
+        "name": "黑木耳",
+        "amount": "30g"
+      },
+      {
+        "name": "冬笋",
+        "amount": "80g"
+      },
+      {
+        "name": "青椒",
+        "amount": "80g"
+      },
+      {
+        "name": "洋葱",
+        "amount": "30g"
+      }
+    ],
+    "side_ingredients": [
+      "淀粉",
+      "醋",
+      "盐",
+      "豆瓣酱"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "白灼濑尿虾",
+    "dish_type": "荤菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "煮",
+    "flavor_profile": "鲜",
+    "difficulty_level": "简单",
+    "calories": 77.0,
+    "protein_level": "高",
+    "taste_tag": "清淡/本味,咸鲜,劲道/Q弹",
+    "regional": "粤菜",
+    "seasonal": "春季",
+    "suitability": "老人,儿童,孕妇,哺乳期",
+    "description": "白灼濑尿虾是一道高蛋白、补血的鲜美荤菜，属于海鲜菜，又称白灼皮皮虾或清煮濑尿虾，制作难度简单，适合午餐、晚餐食用。濑尿虾富含优质蛋白质和铁元素，有助于补血益气，增强体质。煮制方式最大程度保留其原汁原味和营养成分，健康少油。清淡本味的咸鲜口感，能品尝到食材本身的鲜甜，增进食欲，劲道Q弹的肉质带来丰富的",
+    "main_ingredients": [
+      {
+        "name": "河虾",
+        "amount": "2斤"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "干姜",
+      "料酒"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "培根煎蛋卷",
+    "dish_type": "荤素菜",
+    "meal_time": "早餐,午餐,晚餐",
+    "cooking_method": "煎",
+    "flavor_profile": "咸",
+    "difficulty_level": "简单",
+    "calories": 154.0,
+    "protein_level": "高",
+    "taste_tag": "咸鲜,鲜嫩/软滑",
+    "regional": "西式简餐",
+    "seasonal": "春季,夏季,秋季,冬季",
+    "suitability": "儿童",
+    "description": "培根煎蛋卷是一道高蛋白的荤素菜，属于荤素菜，又称培根鸡蛋卷或西式蛋卷，制作难度简单，适合早餐、午餐、晚餐食用。鸡蛋提供优质蛋白质和卵磷脂，有助于增强免疫力；培根提供蛋白质和能量；西红柿富含番茄红素和维生素C，具有抗氧化作用。煎制方式使蛋卷外层微焦，内部软嫩，风味浓郁。咸鲜风味浓郁，能唤醒味蕾，带来满",
+    "main_ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": "3个"
+      },
+      {
+        "name": "培根",
+        "amount": "5片"
+      },
+      {
+        "name": "西红柿",
+        "amount": "适量"
+      }
+    ],
+    "side_ingredients": [
+      "盐"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "荠菜肉包",
+    "dish_type": "主食",
+    "meal_time": "早餐,午餐,晚餐",
+    "cooking_method": "蒸",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 238.89,
+    "protein_level": "中",
+    "taste_tag": "咸鲜,软糯",
+    "regional": "苏菜",
+    "seasonal": "春季",
+    "suitability": "老人,儿童,孕妇,哺乳期",
+    "description": "荠菜肉包是一道主食，属于包点类，又称荠菜包子或肉包，制作难度中等，适合早餐、午餐、晚餐食用。面粉提供碳水化合物，是身体能量的主要来源；荠菜富含膳食纤维、维生素K和C，有助于肠道健康；猪肉提供优质蛋白质、铁和B族维生素，是肌肉生长和血红蛋白合成的重要物质。蒸制方式健康低脂，最大限度保留食材原味与营养。",
+    "main_ingredients": [
+      {
+        "name": "面粉",
+        "amount": "300克"
+      },
+      {
+        "name": "荠菜",
+        "amount": "350克"
+      },
+      {
+        "name": "猪肉",
+        "amount": "400克"
+      },
+      {
+        "name": "鲜酵母",
+        "amount": "3克"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "料酒",
+      "水",
+      "老抽"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "猪肉茴香包子",
+    "dish_type": "主食",
+    "meal_time": "早餐,午餐,晚餐",
+    "cooking_method": "蒸",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 299.97,
+    "protein_level": "高",
+    "taste_tag": "咸鲜,劲道/Q弹",
+    "regional": "鲁菜",
+    "seasonal": "春季,夏季,冬季",
+    "suitability": "老人,儿童,孕妇,哺乳期",
+    "description": "猪肉茴香包子是一道高蛋白、补钙的主食，属于包点类，又称茴香包子或猪肉包子，制作难度中等，适合早餐、午餐、晚餐食用。猪肉提供优质蛋白质和身体所需能量；茴香富含膳食纤维，有助于消化，增加风味；面粉则提供碳水化合物，补充体力。蒸制方式健康少油，能最大限度保留食材的原汁原味和营养。咸鲜的口味能增进食欲，面皮",
+    "main_ingredients": [
+      {
+        "name": "猪肉",
+        "amount": "600g"
+      },
+      {
+        "name": "面粉",
+        "amount": "100g"
+      }
+    ],
+    "side_ingredients": [
+      "茴香籽",
+      "盐",
+      "食用油",
+      "大葱"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "酱焖肉茄丁",
+    "dish_type": "荤素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "焖",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 79.0,
+    "protein_level": "低",
+    "taste_tag": "酱香,咸鲜,软糯",
+    "regional": "东北菜",
+    "seasonal": "夏季,秋季",
+    "suitability": "老人,儿童",
+    "description": "酱焖肉茄丁是一道经典的东北家常荤素菜，属于有肉有菜，制作难度中等，适合午餐、晚餐食用。主要食材猪肉富含优质蛋白质和必需脂肪酸，为身体提供能量；茄子则富含膳食纤维和维生素P，有助于肠道健康和心血管保护，二者搭配营养均衡。通过焖制，肉丁软烂入味，茄子充分吸收酱汁的醇厚，使整体风味浓郁，营养成分也得以保留",
+    "main_ingredients": [
+      {
+        "name": "猪肉",
+        "amount": "100g"
+      },
+      {
+        "name": "茄子",
+        "amount": "450g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "食用油",
+      "大葱",
+      "干姜"
+    ]
+  },
+  {
+    "id": 970,
+    "name": "土豆咖喱鸡块",
+    "dish_type": "荤素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "焖",
+    "flavor_profile": "辣",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "高",
+    "taste_tag": "香辣,酱香,软糯",
+    "regional": "东南亚菜",
+    "seasonal": "秋季,冬季",
+    "suitability": "儿童",
+    "description": "土豆咖喱鸡块是一道高蛋白、补维生素A、补锌、补铁的荤素菜，属于有肉有菜，又称咖喱土豆鸡或咖喱鸡块，制作难度中等，适合午餐、晚餐食用。鸡腿肉提供优质蛋白质和铁锌元素，促进身体生长与免疫；土豆富含碳水化合物和膳食纤维，提供能量；胡萝卜富含β-胡萝卜素，有益视力健康；洋葱则增添风味并提供维生素C。焖煮方式",
+    "main_ingredients": [
+      {
+        "name": "土豆",
+        "amount": "200g"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "100g"
+      },
+      {
+        "name": "洋葱",
+        "amount": "100g"
+      },
+      {
+        "name": "鸡腿肉",
+        "amount": "300g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "糖",
+      "料酒",
+      "白胡椒粉"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "卷心菜包子",
+    "dish_type": "主食",
+    "meal_time": "早餐,午餐,晚餐",
+    "cooking_method": "蒸",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 191.3,
+    "protein_level": "中",
+    "taste_tag": "咸鲜,软糯",
+    "regional": "通用家常",
+    "seasonal": "春季,秋季,冬季",
+    "suitability": "老人,儿童,孕妇,哺乳期,高血压患者,糖尿病患者,痛风患者,高尿酸患者",
+    "description": "卷心菜包子是一道营养均衡的主食，属于包点类，又称包菜包子或圆白菜包子，制作难度中等，适合早餐、午餐、晚餐食用。面粉提供碳水化合物，是主要的能量来源；卷心菜富含膳食纤维、维生素C和维生素K，有助于消化、增强免疫力。蒸制方式健康低脂，最大限度保留食材天然风味和营养。咸鲜口感，增进食欲，带来饱足感。质地软",
+    "main_ingredients": [
+      {
+        "name": "面粉",
+        "amount": "500克"
+      },
+      {
+        "name": "卷心菜",
+        "amount": "500克"
+      }
+    ],
+    "side_ingredients": []
+  },
+  {
+    "id": 7,
+    "name": "香菇鸡蛋包子",
+    "dish_type": "主食",
+    "meal_time": "早餐,午餐,晚餐",
+    "cooking_method": "蒸",
+    "flavor_profile": "鲜",
+    "difficulty_level": "中等",
+    "calories": 221.3,
+    "protein_level": "中",
+    "taste_tag": "咸鲜,劲道/Q弹",
+    "regional": "通用家常",
+    "seasonal": "夏季,秋季,冬季",
+    "suitability": "老人,儿童,孕妇,哺乳期,高血压患者,高血脂患者",
+    "description": "香菇鸡蛋包子是一道主食，属于包点类，又称香菇蛋包子或香菇大包，制作难度中等，适合早餐、午餐、晚餐食用。香菇富含膳食纤维和香菇多糖，有助于增强免疫力；鸡蛋提供优质蛋白质和卵磷脂，是均衡营养的良好来源；面粉提供碳水化合物，为身体提供能量。蒸制方式健康少油，能最大限度保留食材的原汁原味和营养成分。咸鲜的内",
+    "main_ingredients": [
+      {
+        "name": "香菇",
+        "amount": "250克"
+      },
+      {
+        "name": "面粉",
+        "amount": "500克"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "4个"
+      },
+      {
+        "name": "大葱",
+        "amount": "2根"
+      }
+    ],
+    "side_ingredients": [
+      "食用油",
+      "胡椒粉",
+      "盐",
+      "玉米油"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "肉馅土豆丸子",
+    "dish_type": "主食",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炸",
+    "flavor_profile": "咸",
+    "difficulty_level": "简单",
+    "calories": 147.0,
+    "protein_level": "低",
+    "taste_tag": "咸鲜,酥脆",
+    "regional": "通用家常",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人,儿童",
+    "description": "肉馅土豆丸子是一道低嘌呤主食，属于小吃类，又称土豆肉丸或炸土豆丸子，制作难度简单，适合午餐、晚餐食用。土豆富含碳水化合物和钾，提供能量且低嘌呤；猪肉馅补充优质蛋白质；面粉则提供必需的碳水化合物。炸制使其外表金黄酥脆，内里咸鲜软糯，口感层次丰富，能有效增进食欲。外酥里软的质地，带来丰富的咀嚼感，适合成",
+    "main_ingredients": [
+      {
+        "name": "土豆",
+        "amount": "4个"
+      },
+      {
+        "name": "猪肉",
+        "amount": "100g"
+      },
+      {
+        "name": "面粉",
+        "amount": "200g"
+      }
+    ],
+    "side_ingredients": []
+  },
+  {
+    "id": 384,
+    "name": "陈皮鸡丝炒掐菜",
+    "dish_type": "荤素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "炒",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 102.29,
+    "protein_level": "中",
+    "taste_tag": "咸鲜,清淡/本味,爽脆",
+    "regional": "通用家常",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人,儿童,高血压患者,糖尿病患者,高血脂患者",
+    "description": "陈皮鸡丝炒掐菜是一道咸鲜清淡的荤素菜，属于有肉有菜，又称陈皮鸡丝炒黄豆芽，制作难度中等，适合午餐、晚餐食用。鸡肉提供优质蛋白质，低脂易消化；黄豆芽富含维生素和膳食纤维，有助于清热去火。陈皮的加入不仅增添独特风味，更有理气健脾的功效。炒制方式能快速烹饪，最大限度保留食材的爽脆口感和营养。咸鲜适口，清淡",
+    "main_ingredients": [
+      {
+        "name": "鸡肉",
+        "amount": "200克"
+      },
+      {
+        "name": "黄豆芽",
+        "amount": "150克"
+      }
+    ],
+    "side_ingredients": [
+      "陈皮",
+      "干姜",
+      "盐",
+      "香油"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "胡萝卜红烧肉",
+    "dish_type": "荤素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "烧",
+    "flavor_profile": "咸",
+    "difficulty_level": "中等",
+    "calories": 238.38,
+    "protein_level": "低",
+    "taste_tag": "酱香,软烂",
+    "regional": "通用家常",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人,儿童",
+    "description": "胡萝卜红烧肉是一道家常荤素菜，属于有肉有菜，又称胡萝卜烧排骨或红烧排骨炖胡萝卜，制作难度中等，适合午餐、晚餐食用。猪小排提供优质蛋白质和能量；胡萝卜富含β-胡萝卜素，有益视力健康；芹菜则补充膳食纤维，促进消化。烧制方式使食材充分入味，风味浓郁。酱香口感下饭开胃，带来饱足的满足感。肉质与蔬菜软烂入味，",
+    "main_ingredients": [
+      {
+        "name": "猪小排",
+        "amount": "250g"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "一根"
+      },
+      {
+        "name": "芹菜",
+        "amount": "2株"
+      }
+    ],
+    "side_ingredients": [
+      "食用油",
+      "香油"
+    ]
+  },
+  {
+    "id": 535,
+    "name": "凉拌西芹腐竹",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "咸",
+    "difficulty_level": "简单",
+    "calories": 237.18,
+    "protein_level": "高",
+    "taste_tag": "酸甜,香辣,葱油/蒜香,爽脆",
+    "regional": "通用家常",
+    "seasonal": "夏季",
+    "suitability": "孕妇,哺乳期,高血压患者,糖尿病患者,高血脂患者",
+    "description": "凉拌西芹腐竹是一道高蛋白、补血的素菜，属于蔬菜豆制品菜，制作难度简单，适合午餐、晚餐食用。西芹富含膳食纤维和维生素，有助清热解毒；腐竹和干木耳提供优质植物蛋白和丰富的铁元素，协同补血。凉拌烹饪方式最大程度保留食材营养，清爽不油腻。口感酸甜香辣，爽脆开胃，能有效缓解油腻，提振食欲。质地爽脆，具有丰富咀",
+    "main_ingredients": [
+      {
+        "name": "西芹",
+        "amount": "100克"
+      },
+      {
+        "name": "干木耳",
+        "amount": "5克"
+      },
+      {
+        "name": "腐竹",
+        "amount": "100克"
+      },
+      {
+        "name": "辣椒",
+        "amount": "40克"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "鸡精",
+      "白醋",
+      "香油"
+    ]
+  },
+  {
+    "id": 1197,
+    "name": "凉拌素什锦",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "酸",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "低",
+    "taste_tag": "麻辣,酸甜,葱油/蒜香,爽脆",
+    "regional": "通用家常",
+    "seasonal": "春季,夏季",
+    "suitability": "糖尿病患者,高血脂患者",
+    "description": "凉拌素什锦是一道高膳食纤维、低GI的素菜，属于蔬菜，制作难度简单，适合午餐、晚餐食用。黄瓜、胡萝卜、菠菜、紫甘蓝等提供丰富维生素A、C及膳食纤维；木耳、豆皮、豆芽富含植物蛋白、钙、铁，协同补充多种营养。凉拌方式最大化保留食材本味与营养，健康低脂。麻辣酸甜、葱油蒜香的复合味型，清爽开胃，能有效解腻，提",
+    "main_ingredients": [
+      {
+        "name": "黄瓜",
+        "amount": "100g"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "100g"
+      },
+      {
+        "name": "木耳",
+        "amount": "50g"
+      },
+      {
+        "name": "豆芽",
+        "amount": "100g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "醋",
+      "香油",
+      "蒜"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "超辣紫苏叶",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "辣",
+    "difficulty_level": "简单",
+    "calories": 174.0,
+    "protein_level": "极低",
+    "taste_tag": "香辣,咸鲜,爽脆",
+    "regional": "湘菜",
+    "seasonal": "春季,夏季",
+    "suitability": "痛风患者,高血脂患者,高尿酸患者",
+    "description": "超辣紫苏叶是一道风味独特的素菜，属于蔬菜，制作难度简单，适合午餐、晚餐食用。紫苏叶富含多种维生素和矿物质，具有独特的芳香和暖胃作用；辣椒能刺激食欲，促进消化；姜蒜则增添风味并有助杀菌。凉拌方式健康清爽，最大限度保留食材本味。香辣咸鲜的口感，刺激味蕾，带来过瘾的体验，令人食欲大开。质地爽脆，富有嚼劲，",
+    "main_ingredients": [
+      {
+        "name": "紫苏",
+        "amount": "60克"
+      },
+      {
+        "name": "辣椒",
+        "amount": "25克"
+      },
+      {
+        "name": "干姜",
+        "amount": "2克"
+      },
+      {
+        "name": "大蒜头",
+        "amount": "3克"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "生抽",
+      "香油",
+      "绵白糖"
+    ]
+  },
+  {
+    "id": 697,
+    "name": "苹果甘蓝沙拉",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "甜",
+    "difficulty_level": "简单",
+    "calories": 45.4,
+    "protein_level": "极低",
+    "taste_tag": "酸甜,甜香/奶香,爽脆",
+    "regional": "西式简餐",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人,儿童,高血脂患者,痛风患者,高尿酸患者",
+    "description": "苹果甘蓝沙拉是一道清爽的素菜，属于蔬菜沙拉，制作难度简单，适合午餐、晚餐食用。苹果与橙富含维生素C，能增强免疫、抗氧化；紫甘蓝提供膳食纤维与花青素，有助肠道健康。凉拌烹饪最大限度保留食材的天然营养与清脆口感。整体味型酸甜，伴随果香，清爽开胃，带来愉悦的味觉体验。质地爽脆，咀嚼感丰富。备餐需一定功夫，",
+    "main_ingredients": [
+      {
+        "name": "苹果",
+        "amount": "100g"
+      },
+      {
+        "name": "橙",
+        "amount": "100g"
+      },
+      {
+        "name": "紫甘蓝",
+        "amount": "50g"
+      }
+    ],
+    "side_ingredients": [
+      "绵白糖",
+      "沙拉酱"
+    ]
+  },
+  {
+    "id": 897,
+    "name": "麻辣金针菇",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "辣",
+    "difficulty_level": "简单",
+    "calories": 31.8,
+    "protein_level": "极低",
+    "taste_tag": "麻辣,爽脆",
+    "regional": "通用家常",
+    "seasonal": "春季,夏季,冬季",
+    "suitability": "儿童,糖尿病患者,高血脂患者",
+    "description": "麻辣金针菇是一道素菜，属于蔬菜和豆制品菜的组合，制作难度简单，适合午餐、晚餐食用。金针菇富含膳食纤维和氨基酸，有助于肠道健康；胡萝卜提供β-胡萝卜素，对视力有益；豆腐皮则提供优质植物蛋白和钙质。凉拌方式最大限度保留食材营养，口感清爽。麻辣风味刺激食欲，提神过瘾，让人食欲大开。质地爽脆，具有丰富咀嚼感",
+    "main_ingredients": [
+      {
+        "name": "金针菇",
+        "amount": "150克"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1根"
+      },
+      {
+        "name": "豆腐皮",
+        "amount": "100克"
+      }
+    ],
+    "side_ingredients": [
+      "香油",
+      "食用油",
+      "大蒜头",
+      "盐"
+    ]
+  },
+  {
+    "id": 888,
+    "name": "砂锅小土豆",
+    "dish_type": "素菜",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "焖",
+    "flavor_profile": "咸",
+    "difficulty_level": "简单",
+    "calories": 81.0,
+    "protein_level": "极低",
+    "taste_tag": "香辣,酱香,软糯",
+    "regional": "通用家常",
+    "seasonal": "冬季",
+    "suitability": "老人,高血压患者,痛风患者,高尿酸患者",
+    "description": "砂锅小土豆是一道低嘌呤的素菜，属于蔬菜，又称砂锅马铃薯或砂锅洋芋，制作难度简单，适合午餐、晚餐食用。土豆富含碳水化合物，是能量的良好来源，同时含有膳食纤维和维生素C，有助于维持消化健康和增强免疫力。焖制方式能让土豆充分吸收汤汁风味，口感软烂入味。香辣酱香的复合风味浓郁醇厚，令人食欲大开，带来满足的味",
+    "main_ingredients": [
+      {
+        "name": "土豆",
+        "amount": "500克"
+      },
+      {
+        "name": "水",
+        "amount": "适量"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "食用油",
+      "干姜",
+      "八角"
+    ]
+  },
+  {
+    "id": 1283,
+    "name": "纯牛奶",
+    "dish_type": "饮品",
+    "meal_time": "早餐",
+    "cooking_method": "煮",
+    "flavor_profile": "鲜",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "甜香/奶香,清淡/本味,汤羹/流质",
+    "regional": "通用家常",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人,儿童,哺乳期,孕妇,高血压患者,糖尿病患者,高血脂患者,痛风患者,高尿酸患者",
+    "description": "纯牛奶是一道补钙、补锌、补铁、低GI的饮品，属于饮品类，又称牛奶或鲜牛奶，制作难度简单，适合早餐食用。纯牛奶富含钙质、锌、铁及优质蛋白质，有助于骨骼健康、增强免疫力，且为低GI食物，能稳定血糖。煮制方式使其温热，更易于肠胃消化吸收。口感甜香纯正，清淡本味，温润易消化，带来满足感。作为流质饮品，入口即",
+    "main_ingredients": [
+      {
+        "name": "纯牛奶",
+        "amount": "250ml"
+      }
+    ],
+    "side_ingredients": []
+  },
+  {
+    "id": 1285,
+    "name": "低脂牛奶",
+    "dish_type": "饮品",
+    "meal_time": "早餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "鲜",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "甜香/奶香,汤羹/流质",
+    "regional": "通用家常",
+    "seasonal": "春季,夏季,秋季,冬季",
+    "suitability": "高血压患者,糖尿病患者,高血脂患者,痛风患者,高尿酸患者",
+    "description": "低脂牛奶是一道【补钙、补锌、补铁、低GI】的饮品，属于饮品，又称低脂奶或脱脂牛奶，制作难度简单，适合早餐食用。低脂牛奶富含优质蛋白质、钙、铁、锌等多种矿物质，有助于骨骼健康、血液循环和免疫力提升，其低GI特性有助血糖稳定。无需烹饪，直接饮用，最大限度保留天然营养。甜香的奶味带来治愈和满足感，温润的流",
+    "main_ingredients": [
+      {
+        "name": "低脂牛奶",
+        "amount": "250ml"
+      }
+    ],
+    "side_ingredients": []
+  },
+  {
+    "id": 1309,
+    "name": "南瓜小米粥",
+    "dish_type": "粥",
+    "meal_time": "早餐,晚餐",
+    "cooking_method": "煮",
+    "flavor_profile": "鲜",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "清淡/本味,甜香/奶香,汤羹/流质",
+    "regional": "通用家常",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人,儿童,婴幼儿,哺乳期,孕妇,高血压患者,糖尿病患者,高血脂患者,痛风患者,高尿酸患者",
+    "description": "南瓜小米粥是一道低脂、补维生素A的粥品，属于粥类，又称小米南瓜粥，制作难度简单，适合早餐、晚餐食用。南瓜富含维生素A和膳食纤维，有助于保护视力、促进消化；小米则具有养胃健脾的功效，并提供B族维生素。两者同煮，营养互补，温和滋养。煮制方式使食材软烂易吸收，口感清甜软糯，温润养胃，带来治愈般的饱足感。粥",
+    "main_ingredients": [
+      {
+        "name": "南瓜",
+        "amount": "200g"
+      },
+      {
+        "name": "小米",
+        "amount": "100g"
+      }
+    ],
+    "side_ingredients": []
+  },
+  {
+    "id": 1308,
+    "name": "皮蛋瘦肉粥",
+    "dish_type": "粥",
+    "meal_time": "早餐,晚餐",
+    "cooking_method": "煮",
+    "flavor_profile": "鲜",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "高",
+    "taste_tag": "咸鲜,清淡/本味,汤羹/流质",
+    "regional": "粤菜",
+    "seasonal": "夏季,秋季,冬季",
+    "suitability": "老人,儿童",
+    "description": "皮蛋瘦肉粥是一道高蛋白、低脂的家常粥品，属于粥类，又称皮蛋粥或瘦肉粥，制作难度中等，适合早餐、晚餐食用。大米提供易消化的碳水化合物，是能量的主要来源；瘦肉富含优质蛋白质和铁，有助于肌肉生长和补铁；皮蛋则带来独特风味，同时提供蛋白质。煮制方式使食材营养充分释放，粥体温润易吸收。口感咸鲜清淡，温润养胃，",
+    "main_ingredients": [
+      {
+        "name": "大米",
+        "amount": "100g"
+      },
+      {
+        "name": "瘦肉",
+        "amount": "100g"
+      },
+      {
+        "name": "皮蛋",
+        "amount": "2个"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "白胡椒粉",
+      "香油",
+      "料酒"
+    ]
+  },
+  {
+    "id": 1321,
+    "name": "葡萄",
+    "dish_type": "小吃、点心",
+    "meal_time": "早餐",
+    "cooking_method": "凉拌",
+    "flavor_profile": "甜",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "低",
+    "taste_tag": "酸甜,爽脆",
+    "regional": "通用家常",
+    "seasonal": "夏季,秋季",
+    "suitability": "老人,儿童,孕妇,哺乳期,高血压患者,痛风患者,高尿酸患者",
+    "description": "葡萄是一道低脂、补维生素C的小吃、点心，属于水果零食，制作难度简单，适合早餐食用。葡萄富含维生素C及多种抗氧化物质，有助于增强免疫力、美容养颜，并提供天然果糖，迅速补充能量。凉拌（即生食）方式最大程度保留其天然营养。口感酸甜开胃，清爽解腻，带来愉悦味觉体验。质地爽脆，具有丰富咀嚼感。此为极简快手菜，",
+    "main_ingredients": [
+      {
+        "name": "葡萄",
+        "amount": "350g"
+      }
+    ],
+    "side_ingredients": []
+  },
+  {
+    "id": 1324,
+    "name": "猕猴桃",
+    "dish_type": "小吃、点心",
+    "meal_time": "早餐",
+    "cooking_method": "烧",
+    "flavor_profile": "甜",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "低",
+    "taste_tag": "酸甜,清淡/本味,鲜嫩/软滑",
+    "regional": "通用家常",
+    "seasonal": "秋季,冬季",
+    "suitability": "老人,儿童,孕妇,高血压患者",
+    "description": "猕猴桃是一道低脂、高膳食纤维的小吃、点心，属于小吃类，制作难度简单，适合早餐食用。猕猴桃富含维生素C、膳食纤维和多种矿物质，有助于增强免疫力、促进消化，同时具有低GI特性，能稳定血糖。烹饪方式（烧）使其风味浓郁，口感温润。酸甜清爽的口感开胃又无负担。质地鲜嫩软滑，老人和儿童都能轻松进食。典型的省心快",
+    "main_ingredients": [
+      {
+        "name": "猕猴桃",
+        "amount": "400g"
+      }
+    ],
+    "side_ingredients": []
+  },
+  {
+    "id": 1342,
+    "name": "玉米发糕",
+    "dish_type": "小吃、点心",
+    "meal_time": "早餐",
+    "cooking_method": "蒸",
+    "flavor_profile": "甜",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "甜香/奶香,软糯",
+    "regional": "通用家常",
+    "seasonal": "秋季",
+    "suitability": "老人,儿童,高血压患者,高血脂患者,痛风患者,高尿酸患者",
+    "description": "玉米发糕是一道高膳食纤维、低脂的小吃、点心，属于糕点类，又称蒸玉米糕，制作难度中等，适合早餐食用。玉米面富含膳食纤维，促进消化，提供饱腹感；鸡蛋提供优质蛋白质；小麦面粉提供能量。蒸制方式健康少油，最大限度保留食材本味和营养。口感甜香软糯，带来治愈与满足感，是补充能量的理想选择。质地软糯，易于消化，老",
+    "main_ingredients": [
+      {
+        "name": "玉米面",
+        "amount": "200g"
+      },
+      {
+        "name": "小麦面粉",
+        "amount": "100g"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "2个"
+      }
+    ],
+    "side_ingredients": [
+      "白糖",
+      "酵母"
+    ]
+  },
+  {
+    "id": 1327,
+    "name": "煎蛋卷",
+    "dish_type": "小吃、点心",
+    "meal_time": "早餐",
+    "cooking_method": "煎",
+    "flavor_profile": "甜",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "高",
+    "taste_tag": "甜香/奶香,咸鲜,酥脆",
+    "regional": "通用家常",
+    "seasonal": "春季,夏季,秋季,冬季",
+    "suitability": "儿童,孕妇,哺乳期,痛风患者,高尿酸患者",
+    "description": "煎蛋卷是一道高蛋白、补维生素A、补钙的小吃、点心类的美食，属于小吃类，又称蛋卷或金黄蛋卷，制作难度中等，适合早餐食用。鸡蛋富含优质蛋白质、维生素A和钙，有助于增强免疫力、保护视力及骨骼健康。煎制方式使蛋卷外表金黄酥脆，锁住内部营养。甜香与咸鲜风味交织，口感酥脆，带来治愈与满足感，同时提供早餐所需能量",
+    "main_ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": "2个"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "油",
+      "玉米油",
+      "黑芝麻"
+    ]
+  },
+  {
+    "id": 1346,
+    "name": "双蛋粉丝汤",
+    "dish_type": "汤",
+    "meal_time": "早餐",
+    "cooking_method": "煮",
+    "flavor_profile": "鲜",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "咸鲜,汤羹/流质",
+    "regional": "通用家常",
+    "seasonal": "春季,夏季,冬季",
+    "suitability": "老人,儿童",
+    "description": "双蛋粉丝汤是一道低脂、低GI的温润汤羹，属于汤类，又称皮蛋咸蛋粉丝汤或菠菜双蛋粉丝汤，制作难度简单，适合早餐食用。粉丝提供稳定碳水化合物，皮蛋和咸鸭蛋则提供优质蛋白质和矿物质。菠菜富含维生素A和B族维生素，有助于视力健康和能量代谢。煮制方式清淡少油，最大限度保留食材营养，易于消化吸收。咸鲜的汤头温润",
+    "main_ingredients": [
+      {
+        "name": "粉丝",
+        "amount": "50g"
+      },
+      {
+        "name": "皮蛋",
+        "amount": "1个"
+      },
+      {
+        "name": "咸鸭蛋",
+        "amount": "2个"
+      },
+      {
+        "name": "菠菜",
+        "amount": "100g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "葱",
+      "香油",
+      "食用油"
+    ]
+  },
+  {
+    "id": 1352,
+    "name": "菠菜汤",
+    "dish_type": "汤",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "煮",
+    "flavor_profile": "鲜",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "低",
+    "taste_tag": "咸鲜,甜香/奶香,葱油/蒜香,汤羹/流质",
+    "regional": "西式简餐",
+    "seasonal": "春季,冬季",
+    "suitability": "老人,儿童,孕妇,哺乳期,高血压患者,糖尿病患者,高血脂患者",
+    "description": "菠菜汤是一道低脂、高膳食纤维、富含多种维生素和矿物质的汤，属于汤类，制作难度简单，适合午餐、晚餐食用。菠菜提供丰富的铁质、维生素A、维生素C及膳食纤维，有助于补血和肠道健康；土豆提供能量，且低GI，有助于血糖稳定；胡萝卜富含β-胡萝卜素，有益视力。多种蔬菜搭配煮制，营养全面均衡。煮制方式使食材营养充",
+    "main_ingredients": [
+      {
+        "name": "菠菜",
+        "amount": "200g"
+      },
+      {
+        "name": "土豆",
+        "amount": "150g"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "80g"
+      },
+      {
+        "name": "洋葱",
+        "amount": "80g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "橄榄油",
+      "黄油",
+      "蒜"
+    ]
+  },
+  {
+    "id": 1353,
+    "name": "黄瓜紫菜汤",
+    "dish_type": "汤",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "煮",
+    "flavor_profile": "咸",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "咸鲜,清淡/本味,香辣,汤羹/流质",
+    "regional": "通用家常",
+    "seasonal": "夏季",
+    "suitability": "老人,儿童,孕妇,哺乳期",
+    "description": "黄瓜紫菜汤是一道补钙、补碘、低脂、低GI的汤，属于汤类，又称紫菜黄瓜汤，制作难度简单，适合午餐、晚餐食用。黄瓜富含水分和维生素，清热解渴；紫菜提供丰富的碘、钙和膳食纤维，有益甲状腺健康；虾皮是优质钙质来源，三者搭配，营养互补。煮制方式清淡健康，最大限度保留食材本味。汤羹咸鲜清淡，温润养胃无负担。流质",
+    "main_ingredients": [
+      {
+        "name": "黄瓜",
+        "amount": "200g"
+      },
+      {
+        "name": "紫菜",
+        "amount": "10g"
+      },
+      {
+        "name": "虾皮",
+        "amount": "10g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "香油",
+      "橄榄油",
+      "葱"
+    ]
+  },
+  {
+    "id": 1358,
+    "name": "豌豆尖肉丸汤",
+    "dish_type": "汤",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "煮",
+    "flavor_profile": "鲜",
+    "difficulty_level": "简单",
+    "calories": 0.0,
+    "protein_level": "高",
+    "taste_tag": "咸鲜,清淡/本味,汤羹/流质",
+    "regional": "川菜",
+    "seasonal": "春季,冬季",
+    "suitability": "老人,儿童,孕妇,哺乳期",
+    "description": "豌豆尖肉丸汤是一道高蛋白、低脂、补维生素C、低GI的汤，属于汤类，又称豌豆尖丸子汤或番茄肉丸汤，制作难度简单，适合午餐、晚餐食用。猪肉沫提供优质蛋白质和铁元素，有助于增强体力；豌豆尖富含维生素C和膳食纤维，能增强免疫、促进消化；西红柿则补充维生素C和番茄红素，具有抗氧化功效。煮制方式使食材营养充分释",
+    "main_ingredients": [
+      {
+        "name": "猪肉沫",
+        "amount": "200g"
+      },
+      {
+        "name": "豌豆尖",
+        "amount": "80g"
+      },
+      {
+        "name": "西红柿",
+        "amount": "150g"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "姜",
+      "葱",
+      "料酒"
+    ]
+  },
+  {
+    "id": 1359,
+    "name": "上汤粉丝娃娃菜",
+    "dish_type": "汤",
+    "meal_time": "午餐,晚餐",
+    "cooking_method": "煮",
+    "flavor_profile": "鲜",
+    "difficulty_level": "中等",
+    "calories": 0.0,
+    "protein_level": "中",
+    "taste_tag": "咸鲜,清淡/本味,汤羹/流质",
+    "regional": "粤菜",
+    "seasonal": "春季,秋季,冬季",
+    "suitability": "痛风患者,高尿酸患者",
+    "description": "上汤粉丝娃娃菜是一道高膳食纤维、低脂、补维生素C的汤羹，属于汤类，又称娃娃菜粉丝汤或金汤娃娃菜，制作难度中等，适合午餐、晚餐食用。娃娃菜富含膳食纤维和维生素C，有助于促进消化、补充水分；粉丝提供能量；松花蛋则增添独特风味。煮制方式使汤汁鲜美，最大限度保留食材营养。咸鲜清淡的汤头温润暖胃，无负担，能带",
+    "main_ingredients": [
+      {
+        "name": "娃娃菜",
+        "amount": "200g"
+      },
+      {
+        "name": "粉丝",
+        "amount": "50g"
+      },
+      {
+        "name": "松花蛋",
+        "amount": "1个"
+      }
+    ],
+    "side_ingredients": [
+      "盐",
+      "鸡精",
+      "姜",
+      "葱"
+    ]
+  }
+]

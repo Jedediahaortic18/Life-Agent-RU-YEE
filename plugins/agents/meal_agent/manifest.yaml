@@ -1,0 +1,25 @@
+manifest_version: 2
+name: meal_agent
+version: "0.1.0"
+type: agent
+description: "AI 驱动的饮食规划 Agent，支持菜品推荐、营养计算、购物清单生成"
+entry_point: agent:MealAgent
+dependencies:
+  plugins:
+    - short_term_memory
+    - user_profile
+    - delivery_address
+  python:
+    - jinja2
+tools:
+  - tools.dish_query_tool:DishQueryTool
+  - tools.meal_recommend_tool:MealRecommendTool
+  - tools.shopping_list_tool:ShoppingListTool
+allowed_agents:
+  - purchasing_agent
+author: "LARY"
+tags: ["meal", "nutrition", "diet"]
+config_schema:
+  cuisine_styles:
+    type: list
+    default: ["中餐", "西餐"]

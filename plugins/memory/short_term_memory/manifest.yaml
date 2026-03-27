@@ -1,0 +1,16 @@
+manifest_version: 1
+name: short_term_memory
+version: "0.1.0"
+type: memory
+description: "Redis 会话记忆 - 存储短期对话历史"
+entry_point: memory:ShortTermMemory
+dependencies:
+  plugins: []
+  python: []
+config_schema:
+  max_turns:
+    type: integer
+    default: 30
+  ttl_hours:
+    type: integer
+    default: 2

@@ -1,0 +1,17 @@
+manifest_version: 1
+name: device_gateway
+version: "0.1.0"
+type: extension
+description: "设备 WebSocket 网关 - 支持外部设备实时双向通信"
+entry_point: gateway:DeviceGateway
+dependencies:
+  plugins: []
+  python:
+    - websockets
+config_schema:
+  heartbeat_interval:
+    type: integer
+    default: 30
+  max_connections:
+    type: integer
+    default: 100

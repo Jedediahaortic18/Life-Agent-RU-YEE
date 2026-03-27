@@ -1,0 +1,21 @@
+manifest_version: 2
+name: automation_adb
+version: "0.1.0"
+type: extension
+description: "ADB Android 自动化驱动 - 通过 ADB 控制 Android 设备"
+author: "LARY"
+entry_point: extension:AutomationAdbExtension
+dependencies:
+  plugins: []
+  python: []
+tags: ["automation", "adb", "android"]
+config_schema:
+  device_serial:
+    type: string
+    default: ""
+  adb_path:
+    type: string
+    default: "adb"
+  command_timeout:
+    type: integer
+    default: 10

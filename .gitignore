@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+.ruff_cache/
+.pytest_cache/
+.venv/
+web/dist/
+web/node_modules/
+.worktrees/
+
+# 环境变量与密钥（.env.example 保留为模板）
+.env
+.env.local
+.env.*.local
+
+# 社区安装的插件
+contrib/
+
+# Claude Code
+CLAUDE.md

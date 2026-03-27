@@ -1,0 +1,51 @@
+server:
+  host: "0.0.0.0"
+  port: 8000
+
+plugins:
+  agents:
+    - meal_agent
+    - purchasing_agent  # routable: false，不参与顶级路由，仅通过 agent_call 调用
+  memory:
+    - short_term_memory
+    - user_profile
+    - delivery_address
+  search: []
+  extensions:
+    - device_gateway
+    - automation_u2
+
+llm:
+  default_model: volcengine/doubao-seed-2-0-pro-260215
+  intent_router_model: volcengine/doubao-seed-2-0-lite-260215  # 快速模型，用于意图分类
+  fallback_model: null
+  max_tokens_per_request: 4096
+  temperature: 0.7
+
+logging:
+  level: INFO
+  format: text
+
+plugin_config:
+  meal_agent:
+    model: volcengine/doubao-seed-2-0-lite-260215  # 快速模型，适合日常聊天/画像收集
+    cuisine_styles: ["中餐", "日料", "东南亚"]
+  short_term_memory:
+    max_turns: 30
+    ttl_hours: 2
+  device_gateway:
+    heartbeat_interval: 30
+    max_connections: 100
+  purchasing_agent:
+    model: volcengine/doubao-seed-2-0-pro-260215  # 推理模型，适合复杂多步自动化
+    hema_package: "com.wudaokou.hippo"
+  automation_u2:
+    device_addr: ""
+    connect_timeout: 10
+
+skillhub:
+  registry_url: "https://raw.githubusercontent.com/lary-hub/registry/main/index.json"
+  cache_ttl_seconds: 3600  # 索引缓存 1 小时
+  contrib_dir: "contrib"
+  backup_dir: "contrib/.backup"
+  max_download_size_mb: 100  # 单个插件最大下载大小

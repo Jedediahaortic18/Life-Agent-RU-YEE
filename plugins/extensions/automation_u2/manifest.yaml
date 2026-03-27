@@ -1,0 +1,20 @@
+manifest_version: 2
+name: automation_u2
+version: "0.1.0"
+type: extension
+description: "uiautomator2 Android 自动化驱动 - 通过 u2 控制 Android 设备"
+author: "LARY"
+entry_point: extension:AutomationU2Extension
+dependencies:
+  plugins: []
+  python:
+    - uiautomator2
+tags: ["automation", "uiautomator2", "android"]
+config_schema:
+  device_addr:
+    type: string
+    description: "设备地址（IP 或 serial），为空时自动发现"
+    default: ""
+  connect_timeout:
+    type: integer
+    default: 10

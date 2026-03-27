@@ -1,0 +1,13 @@
+manifest_version: 1
+name: user_profile
+version: "0.1.0"
+type: memory
+description: "用户画像管理插件，提供画像读取和保存工具，可被多个 Agent 共享"
+entry_point: profile_memory:UserProfileMemory
+dependencies:
+  plugins:
+    - short_term_memory
+tools:
+  - tools.profile_get_tool:ProfileGetTool
+  - tools.profile_save_tool:ProfileSaveTool
+config_schema: {}

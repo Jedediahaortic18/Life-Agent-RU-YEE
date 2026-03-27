@@ -1,0 +1,15 @@
+manifest_version: 2
+name: delivery_address
+version: "0.1.0"
+type: memory
+description: "配送区域地址管理插件，保存用户所在小区/街道用于定位盒马配送区域，无需详细门牌号"
+entry_point: memory:DeliveryAddressMemory
+dependencies:
+  plugins: []
+  python: []
+tools:
+  - tools.address_get_tool:AddressGetTool
+  - tools.address_save_tool:AddressSaveTool
+author: "LARY"
+tags: ["address", "delivery", "location"]
+config_schema: {}

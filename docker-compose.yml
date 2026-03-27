@@ -1,0 +1,66 @@
+services:
+  app:
+    build:
+      context: .
+      target: backend
+    container_name: life-agent-app
+    privileged: true
+    ports:
+      - "8001:8000"
+    volumes:
+      - .:/app
+    devices:
+      - /dev/bus/usb:/dev/bus/usb
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://lifeagent:lifeagent@postgres:5432/lifeagent
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: life-agent-postgres
+    environment:
+      POSTGRES_DB: lifeagent
+      POSTGRES_USER: lifeagent
+      POSTGRES_PASSWORD: lifeagent
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U lifeagent"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: life-agent-redis
+    ports:
+      - "6380:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  nginx:
+    build:
+      context: .
+      target: nginx
+    container_name: life-agent-nginx
+    ports:
+      - "80:80"
+    depends_on:
+      - app
+    restart: unless-stopped
+
+volumes:
+  pgdata:

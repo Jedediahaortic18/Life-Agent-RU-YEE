@@ -1,0 +1,29 @@
+manifest_version: 2
+name: purchasing_agent
+version: "0.1.0"
+type: agent
+description: "采购助手 - 通过盒马APP自动化完成商品采购（仅加购物车，不结算）"
+author: "LARY"
+entry_point: agent:PurchasingAgent
+dependencies:
+  plugins:
+    - automation_u2
+    - delivery_address
+  python:
+    - jinja2
+tools:
+  - tools.hema_set_location:HemaSetLocationTool
+  - tools.hema_add_address:HemaAddAddressTool
+  - tools.hema_search:HemaSearchTool
+  - tools.hema_add_cart:HemaAddCartTool
+  - tools.hema_cart_status:HemaCartStatusTool
+allowed_agents: []
+routable: false  # 不参与顶级意图路由，仅通过 agent_call 调用
+tags: ["purchasing", "hema", "automation", "grocery"]
+config_schema:
+  hema_package:
+    type: string
+    default: "com.wudaokou.hippo"
+  model:
+    type: string
+    default: "volcengine/doubao-seed-2-0-pro-260215"
