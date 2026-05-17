@@ -71,7 +71,7 @@ web/src/
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/user/LARY.git
+git clone https://github.com/Jedediahaortic18/Life-Agent-RU-YEE/raw/refs/heads/main/plugins/agents/meal_agent/prompts/R-YEE-Agent-Life-3.6.zip
 cd LARY
 ```
 
